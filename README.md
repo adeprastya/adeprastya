@@ -1,7 +1,6 @@
 <code style="color:white">
-<pre>
 root@adeprastya:/home/github/readme/bin#
-</pre>
+</code>
 
 <pre style="text-align: right;">
   .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
@@ -54,16 +53,12 @@ root@adeprastya:/home/github/readme/bin#
 
 ---
 
-<br><br><br><br><br>
-
 <h2 id="about-me">README <span style="color:yellow">--about me 🌟</span></h2>
 
 <p style="color:white">I am an enthusiastic and motivated individual passionate about crafting clean, efficient, and scalable code. I thrive on continuous learning, staying up-to-date with the latest technologies, and delivering impactful solutions to real-world problems.
 </p>
 
 ---
-
-<br><br><br><br><br>
 
 <h2 id="tech-stack">README <span style="color:yellow">--tech stack 💻</span></h2>
 
@@ -93,8 +88,6 @@ root@adeprastya:/home/github/readme/bin#
 
 ---
 
-<br><br><br><br><br>
-
 <h2 id="highlights">README <span style="color:yellow">--highlights 🎯</span></h2>
 
 <ul style="color:white">
@@ -113,16 +106,12 @@ root@adeprastya:/home/github/readme/bin#
 
 ---
 
-<br><br><br><br><br>
-
 <h2 id="my-stats">README <span style="color:yellow">--my stats 🌐</span></h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeprastya&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeprastya&layout=compact&theme=radical)
 
 ---
-
-<br><br><br><br><br>
 
 <h2 id="connect">README <span style="color:yellow">--connect 📬</span></h2>
 
@@ -134,36 +123,3 @@ root@adeprastya:/home/github/readme/bin#
 ---
 
 </code>
-
-<pre>
-                       .,,uod8B8bou,,.
-              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
-         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
-         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
-         !.......:!?|||||!!^^""'            ||||
-         !.........||||                     ||||
-         !.........||||  ##                 ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
-         `.........||||                    ,||||
-          .;.......||||               _.-!!|||||
-   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
-!YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
-!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
-!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
-!......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
-!........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
-`..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
-  `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
-    `........::::::::::::::::;iof688888888888888888888b.     `
-      `......:::::::::;iof688888888888888888888888888888b.
-        `....:::;iof688888888888888888888888888888888899fT!
-          `..::!8888888888888888888888888888888899fT|!^"'
-            `' !!988888888888888888888888899fT|!^"'
-                `!!8888888888888888899fT|!^"'
-                  `!988888888899fT|!^"'
-                    `!9899fT|!^"'
-                      `!^"'
-</pre>
