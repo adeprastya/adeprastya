@@ -57,9 +57,15 @@
 
 <pre>
 {
-  Frontend : [ HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React ],
+  Languange : [Javascript, Typescript, PHP],
+  
+  Frontend : [ HTML, CSS, Tailwind, Bootstrap, React, Framer Motion ],
 
-  Backend : [ PHP, Express, MongoDB, MySQL ],
+  Backend : [ PHP, Express ],
+
+  Fullstack : [ Next.js ]
+
+  Database : [ MySQL, Postgres, MongoDB, Firebase/Firestore ]
 
   Cloud & DevOps : [ Google Cloud Platform, DevOps, SRE ],
 
