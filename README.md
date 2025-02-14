@@ -63,9 +63,9 @@
 
   Backend : [ PHP, Express ],
 
-  Fullstack : [ Next.js ]
+  Fullstack : [ Next.js ],
 
-  Database : [ MySQL, Postgres, MongoDB, Firebase/Firestore ]
+  Database : [ MySQL, Postgres, MongoDB, Firebase/Firestore ],
 
   Cloud & DevOps : [ Google Cloud Platform, DevOps, SRE ],
 
